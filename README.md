@@ -8,7 +8,7 @@
 <h3 align="center">Your Ultimate Movie Data Playground</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8I1OTsL0l8puZCDu9b/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/xT0xezQ7bV2oyb4Z10/giphy.gif" width="60" />
 </p>
 
 <hr>
@@ -16,7 +16,7 @@
 <h2 align="center">✨ Features That Make This API Shine</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5Dsd9rj9aa6w/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/3o6ozGXfcnqMHq7S98/giphy.gif" width="60" />
 </p>
 
 - **🔍 Search Like a Detective**: Find your favorite movies in a flash! Just type in a keyword, and let the API do the rest. It's like having your own movie search wizard! 🧙‍♂️
@@ -30,7 +30,7 @@
 - **🛠️ Flexible Querying**: Customize your API requests with different parameters to get precisely the data you need. Choose the number of results per page, specify the sort order, and more! 🔄
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufbG8PCx2p0i0lu/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/xT0GqPIzv8lRT7wP9C/giphy.gif" width="60" />
 </p>
 
 <hr>
@@ -38,7 +38,7 @@
 <h2 align="center">💡 How It Works</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsUKCkN4CEdxt8A/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/xUOrw9HciFkfbCjtgA/giphy.gif" width="60" />
 </p>
 
 Our Movie API is designed to make managing and exploring movie data a breeze! It connects to a MongoDB database where all your movie information is stored. When you send a request to the API, it performs operations like searching, sorting, filtering, and pagination based on your preferences. The API then responds with the movie data, ready for you to use in your application or project.
@@ -49,7 +49,7 @@ Our Movie API is designed to make managing and exploring movie data a breeze! It
 - **Pagination**: Break down movie lists into pages for easier browsing.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26u4eYv7QzA8tBbFq/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/xT0xdl1JqSxXWZaMRW/giphy.gif" width="60" />
 </p>
 
 <hr>
