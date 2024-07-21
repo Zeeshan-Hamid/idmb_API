@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohs7Yj5bW6AEQ0e5q/giphy.gif" height="200" />
-</p>
 
-<hr>
 
-<h1 align="center">🎬 Welcome to the Movie API! 🍿</h1>
+<h1 align="center">🎬 Welcome to the Full Stack Mini Movie APP! 🍿</h1>
 <h3 align="center">Your Ultimate Movie Data Playground</h3>
 
 <p align="center">
