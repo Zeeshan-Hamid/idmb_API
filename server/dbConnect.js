@@ -3,7 +3,7 @@ const mongoose = require('mongoose')
 const dbConnect = () => {
     const connectionParams = { useNewUrlParser: true }
     mongoose.connect(
-      "mongodb+srv://zeeshanhamid17:$zee03052002@cluster0.3fhdcu9.mongodb.net/idmbAPI?retryWrites=true&w=majority&appName=Cluster0"
+    "mongodb+srv://zeeshanhamid17:$zee03052002@cluster0.aqabk0o.mongodb.net/movieApp?retryWrites=true&w=majority&appName=Cluster0"  
     );
 
     mongoose.connection.on('connected', () => {
